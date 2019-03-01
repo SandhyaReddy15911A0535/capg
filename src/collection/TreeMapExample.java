@@ -22,7 +22,7 @@ tm.put(15,"aty");
 //}
 //System.out.println( ((Object) tm).getKey());
 Set<Entry<Integer,String>> set1 = tm.entrySet();
-//System.out.println(set1);
+System.out.println(set1);
 //Iterator<Integer> iterator=((tm) set1).getValues();
 
 
